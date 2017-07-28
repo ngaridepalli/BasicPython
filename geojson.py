@@ -15,7 +15,7 @@ url='https://core-1215.dev.core.rackspace.com//ctkapi/login/fmwcoreuser'
 #             }
 # }
 
-data ={"password":"ar@njy8JVWP#xS"}
+data ={"password":"XXXX"}
 # req= requests.request('GET',serviceurl)
 r = requests.post("https://core-1215.dev.core.rackspace.com//ctkapi/login/fmwcoreuser",data=data,json)
 k=requests.post
